@@ -1,0 +1,2 @@
+# svnmerge
+Svn auto merge
